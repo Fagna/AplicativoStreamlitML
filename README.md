@@ -1,4 +1,4 @@
-# AplicativoStreamlitML
+# Streamlit Machine Learning App
 
 Application for visualization of machine learning results using streamlit library in python.
 
